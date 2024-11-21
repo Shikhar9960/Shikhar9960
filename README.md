@@ -1,4 +1,4 @@
-[![MasterHead](https://marketplace.canva.com/EAFSUH0EweU/1/0/1600w/canva-black-elegant-personal-linkedin-banner-eEN5zzEf5VA.jpg)](https://shikhar9960.io)
+[![MasterHead](https://marketplace.canva.com/EAFSUH0EweU/1/0/1600w/canva-black-elegant-personal-linkedin-banner-eEN5zzEf5VA.jpg)](linkedin.com/in/shikhar-jaiswal-93274422a)
 <h1 align="center">Hi 👋, I'm Shikhar Jaiswal</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 

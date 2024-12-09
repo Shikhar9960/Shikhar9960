@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/shikhar9960" target="blank"><img src="https://img.shields.io/twitter/follow/shikhar9960?logo=twitter&style=for-the-badge" alt="shikhar9960" /></a> </p>
 
-- 🌱 I’m currently learning **DSA with C++**
+- 🌱 I’m currently learning **DSA with JAVA**
 
 - 👨‍💻 All of my projects are available at [https://portfolio9960.netlify.app](https://portfolio9960.netlify.app)
 
